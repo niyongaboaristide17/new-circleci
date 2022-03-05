@@ -19,3 +19,12 @@ export function testing6() {
 export function testing7() {
     return true
 }
+export function testing8() {
+    return true
+}
+export function testing9() {
+    return true
+}
+export function testing10() {
+    return true
+}
