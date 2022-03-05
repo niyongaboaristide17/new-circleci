@@ -6,7 +6,4 @@ describe('TEST', ()=>{
     it('SHOULD RETURN TRUE', ()=>{
         expect(testing()).to.equal(true)
     })
-    it('SHOULD RETURN 2ND TRUE', ()=>{
-        expect(testing2()).to.equal(true)
-    })
 })
